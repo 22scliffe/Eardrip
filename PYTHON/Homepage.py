@@ -2,6 +2,8 @@ from Log_In_Function import *
 from Log_Out_Function import *
 from Sign_Up_Function import *
 
+
+
 #the main homepage which gives the user different options they can choose from
 def homepage():
     ValidInput = False
