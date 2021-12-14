@@ -1,0 +1,16 @@
+#add to github
+
+git add .
+(. adds everything/ (Homepage))
+
+git commit -m " () version"
+
+git push
+
+
+
+#see changes
+
+git status
+
+git diff

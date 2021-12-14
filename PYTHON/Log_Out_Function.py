@@ -1,6 +1,7 @@
-from Log_In_Function import *
-from Homepage import *
+from PYTHON.Log_In_Function import *
+from PYTHON.Homepage import *
 
+LoggedIn = False
 ValidInput = False
 
 #user can decide if they want to continue or go back to homepage
@@ -19,4 +20,3 @@ def logout():
         else:
             print ("Please enter a valid input: ")
             ValidInput == False
-

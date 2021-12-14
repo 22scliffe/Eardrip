@@ -36,4 +36,3 @@ def signup():
     print("Username - "+username)
     print("Password - " +password)
     print("Email - "+useremail)
-

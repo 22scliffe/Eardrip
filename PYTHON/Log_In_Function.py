@@ -1,6 +1,7 @@
 from Homepage import *
+
 username = ("sam cliffe")
-password = ("123")
+password = ("12345")
 LoggedIn = False
 
 def login():
