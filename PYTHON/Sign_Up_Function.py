@@ -29,7 +29,7 @@ def signup():
         else:
             username_input = input("please enter a password with a minimum of 5 characters: ")
 
-
+    #prints the users infomation
     useremail = input("Please enter your email: ")
     print("Great "+username+", your account is set up")
     print("Here are your details")
